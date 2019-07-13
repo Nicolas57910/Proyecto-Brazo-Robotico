@@ -1,3 +1,6 @@
+/*Hecho por: Nicolás Moreno Rincón
+ *           Miguel Ángel Melchor Gallego
+ */
 #include <Servo.h>
   Servo base;
   Servo derecha;
